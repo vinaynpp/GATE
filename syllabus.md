@@ -1,5 +1,5 @@
 * GATE Syllabus
-    * Section1: Engineering Mathematics
+    * Section 1: Engineering Mathematics
         * Discrete Mathematics
             * Propositional and first order logic
             * Sets
